@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+Link of the website:- https://movieverse-three.vercel.app/
+some screenshots of the website
+![Screenshot (612)](https://github.com/pritamchaudhary/MovieVerse/assets/92274739/3c053b98-6d3d-40cc-92c2-62c32ac79e20)
+![Screenshot (615)](https://github.com/pritamchaudhary/MovieVerse/assets/92274739/68bf12df-1bb3-41de-8046-80f35be0e9ce)
+![Screenshot (614)](https://github.com/pritamchaudhary/MovieVerse/assets/92274739/4a6673c1-879c-4c1a-b2ce-a0d4337582fa)
+![Screenshot (613)](https://github.com/pritamchaudhary/MovieVerse/assets/92274739/63ca7a1b-1f13-4338-ac72-4cf3085c2e31)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
