@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-Link of the website:- https://movieverse-three.vercel.app/
 
 some screenshots of the website
 ![Screenshot (612)](https://github.com/pritamchaudhary/MovieVerse/assets/92274739/3c053b98-6d3d-40cc-92c2-62c32ac79e20)
